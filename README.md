@@ -93,3 +93,6 @@ The notebook is organized into the following main steps:
 
 ---
 For any questions, please contact Zahoor Jan (Group Leader).
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spaceship-titanic-Zahoor-Khan-Team-16/spaceship-titanic-kaggle-challenge/blob/main/Group_16_Work%20updated.ipynb)
