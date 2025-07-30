@@ -2,7 +2,32 @@
   <img src="logo.png" alt="Team Logo" width="200"/>
 </p>
 
-# Spaceship Titanic Competition – Group 16
+#  Spaceship Titanic Kaggle Challenge
+
+A Machine Learning solution for the Spaceship Titanic competition.
+
+---
+
+##  Google Colab Link
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spaceship-titanic-Zahoor-Khan-Team-16/spaceship-titanic-kaggle-challenge/blob/main/Group_16_Work%20updated.ipynb)
+
+---
+
+##  Repository Structure
+- `Group_16_Work updated.ipynb`: Main Jupyter Notebook
+- `train.csv`, `test.csv`: Dataset files
+- `logo.png`: Team logo
+- `README.md`: Project documentation
+
+
+
+## GitHub ↔️ Colab Integration
+This Colab notebook was opened **directly from GitHub**, and the repo is cloned into Colab using:
+
+```python
+!git clone https://github.com/spaceship-titanic-Zahoor-Khan-Team-16/spaceship-titanic-kaggle-challenge.git
+
 
 ## Project Overview
 This project is a solution for the Kaggle Spaceship Titanic competition (2022), where the goal is to predict which passengers were transported to an alternate dimension during a mysterious interstellar disaster. The problem is a binary classification task, evaluated using accuracy on a held-out test set.
