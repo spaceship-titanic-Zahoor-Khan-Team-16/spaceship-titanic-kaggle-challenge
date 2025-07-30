@@ -1,2 +1,3 @@
-# spaceship-titanic-kaggle-challenge
-ML solution for Spaceship Titanic Kaggle competition
+<p align="center">
+  <img src="logo.png" alt="Team Logo" width="200"/>
+</p>
